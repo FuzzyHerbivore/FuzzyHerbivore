@@ -4,6 +4,8 @@ Hey there, I'm Chris, a Software Engineer with more than two decades of work exp
 
 Below you can find a selection of game-related projects that were created during my studies. I have some dusty experience with Java and Python from my web development days and learned Swift and Rust as Hobbies during my time doing agile coaching. So despite being somewhat new to game-related programming, I bring my experience with clean, maintainable code and sustainable collaboration to projects I'm involved in.
 
+No LLMs were used for any of the code or text I was responsible for.
+
 Find out more about me on [LinkedIn](https://www.linkedin.com/in/christian-schneider-991bab213) if you're curious.
 
 ## Projects
